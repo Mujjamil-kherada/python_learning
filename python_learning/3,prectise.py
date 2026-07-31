@@ -1,34 +1,34 @@
 # 3,prectise set
 # Q,1
 
-# name=input('enter the name:')
-# print('god afternon',name)
+name=input('enter the name:')
+print('god afternon',name)
 
 # Q,2
 
-# letter='''
-# Dear <|NAME|>,
-# yor name Selected!
-# <|DARE|>
-# '''
-# ...
+letter='''
+Dear <|NAME|>,
+yor name Selected!
+<|DARE|>
+'''
+...
 
-# name=input('enter you name:')
-# date=input('enter you date:')
+name=input('enter you name:')
+date=input('enter you date:')
 
-# letter=letter.replace('<|NAME|>',name)
-# letter=letter.replace('<|DATE|>',date)
+letter=letter.replace('<|NAME|>',name)
+letter=letter.replace('<|DATE|>',date)
 
-# print(letter)
+print(letter)
 
 # # Q,3
-# a='my neme is\n mujjamil'
-# print(a)
+a='my neme is\n mujjamil'
+print(a)
 
 # Q,4
 
-# a='my name \nis mujjamil\n i am 20 \nyers old'
-# print(a)
+a='my name \nis mujjamil\n i am 20 \nyers old'
+print(a)
 
 # Q,5
 
