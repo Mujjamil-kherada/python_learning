@@ -174,11 +174,8 @@
 
 # 8----?
 
-<<<<<<< HEAD
 number=[1,2,3,4,5]
 def multy(number):
     return number * 4
 dob=multy(number)
 print(dob)
-=======
->>>>>>> 85587b128129a9e4d3b701634378a29faa5d7daa
