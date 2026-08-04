@@ -1,8 +1,13 @@
 
 
 
+<<<<<<< HEAD
+# 11_prectise
+# Q=1
+=======
 11_prectise
 Q=1
+>>>>>>> 85587b128129a9e4d3b701634378a29faa5d7daa
 
 class c2dvector():
     def __init__(self,x,y):
@@ -24,7 +29,11 @@ print('c2dvector:',A)
 B=c3dvector(1,2,3)
 print('c3dvector:',B)
 
+<<<<<<< HEAD
+# Q=2
+=======
 Q=2
+>>>>>>> 85587b128129a9e4d3b701634378a29faa5d7daa
 
 class Animel():
     def body_parts(self):

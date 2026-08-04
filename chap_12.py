@@ -79,4 +79,8 @@
 
 # fruit=["apple","mango"]
 # stri_f=" and ".join(fruit)
+<<<<<<< HEAD
 # print(stri_f)
+=======
+# print(stri_f)
+>>>>>>> 85587b128129a9e4d3b701634378a29faa5d7daa

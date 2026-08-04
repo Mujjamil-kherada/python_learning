@@ -67,7 +67,11 @@ while True:
         print('yes don',next_3)
 
 
+<<<<<<< HEAD
+# Q=1
+=======
 Q=1
+>>>>>>> 85587b128129a9e4d3b701634378a29faa5d7daa
 
 file_1 = ['text_1','text_2','text_3','text_4']
 for file in file_1 :
@@ -78,20 +82,32 @@ for file in file_1 :
     except:
         print(file,'is not work')
 
+<<<<<<< HEAD
+# Q=2 
+=======
 Q=2
+>>>>>>> 85587b128129a9e4d3b701634378a29faa5d7daa
 
 num = [1,2,3,4,5,6,7,8,9,10]
 for index,number in enumerate(num):
     if index==2 or index == 4 or index == 8:
         print(number)
 
+<<<<<<< HEAD
+# Q=3  
+=======
 Q=3
+>>>>>>> 85587b128129a9e4d3b701634378a29faa5d7daa
 
 number=int(input('number:'))
 tabel=[number * i for i in range(1,11)]
 print(tabel,'tabel')
 
+<<<<<<< HEAD
+# Q=4        
+=======
 Q=4
+>>>>>>> 85587b128129a9e4d3b701634378a29faa5d7daa
 
 a=int(input('number:'))
 b=int(input('number:'))
@@ -101,7 +117,11 @@ try:
 except ZeroDivisionError as e:
     print('error',e)
 
+<<<<<<< HEAD
+# Q=5
+=======
 Q=5
+>>>>>>> 85587b128129a9e4d3b701634378a29faa5d7daa
 
 number=int(input('number:'))
 tabel=[number * i for i in range(1,11)]
@@ -131,10 +151,17 @@ def add_1(num):
 result = map(add_1,enumerate(number))
 print(list(result)) 
 
+<<<<<<< HEAD
+# prob
+number=[1,2,3,4,5,6]
+def slice(number):
+    return number % 1
+=======
 prob
 number=[1,2,3,4,5,6]
 def slice(number):
     return T-F
+>>>>>>> 85587b128129a9e4d3b701634378a29faa5d7daa
 dubel=filter(slice,number)
 print(list(dubel))
     
